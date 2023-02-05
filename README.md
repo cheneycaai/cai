@@ -3,3 +3,7 @@
 cp .env.example .env
 # 完善.env 文件内容
 OPENAI_API_KEY='你的key'
+# 安装依赖
+npm i
+# 启动服务
+npm run dev
